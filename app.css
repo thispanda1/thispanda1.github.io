@@ -27,7 +27,7 @@
   --cards: ; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(E.jpg); /* Image URL */
+  --imgbg: url(E.jpg); 
    --imgcol: linear-gradient(
     rgba(255, 255, 255, 0),
     rgba(255, 255, 255, 0)
