@@ -29,7 +29,7 @@
   --cards: ; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(E.jpg); 
+  --imgbg: url(cutefish01.jpeg); 
    --imgcol: linear-gradient(
     rgba(255, 255, 255, 0),
     rgba(255, 255, 255, 0)
@@ -39,7 +39,7 @@
 .darktheme {
   /* Dark Colors  */
   --accent: #4A3F49; /* Hover color */
-  --imgbg: url(G.jpg);
+  --imgbg: url(cutefish01.jpeg);
   --background: #19171a; /* Background color */
   --cards: #201e21; /* Cards color */
   
@@ -50,8 +50,8 @@
   
   /* Image background  */
   --imgcol: linear-gradient(
-    rgba(0, 0, 0, 0.4),
-    rgba(0, 0, 0, 0.4)
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0.75)
   ); /* Filter color */
 }
 
